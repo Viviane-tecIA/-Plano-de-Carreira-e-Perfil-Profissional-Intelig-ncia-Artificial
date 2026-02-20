@@ -2,19 +2,33 @@
 
 Entrevista
 
-Pergunta 1: Quais são seus interesses principais hoje (ex: design, lógica, organização de dados)?Resposta: Inteligência Artificial
+Pergunta 1: Quais são seus interesses principais hoje (ex: design, lógica, organização de dados)?
 
-Pergunta 2: Quanto tempo por dia você tem disponível para estudar?Resposta: 6 horas
+Resposta: Inteligência Artificial
 
-Pergunta 3: Você já tem alguma experiência prévia em tecnologia ou está começando do zero?Resposta: Estou começando quase do zero. Já tive alguns contatos básicos com ferramentas digitais e estou fazendo este curso da DIO para aprender de verdade, mas ainda não tenho experiência profissional na área de tecnologia.
+Pergunta 2: Quanto tempo por dia você tem disponível para estudar?
 
-Pergunta 4: Qual é o seu objetivo de carreira em médio prazo (ex.: conseguir o primeiro emprego, freelances, projetos pessoais)?Resposta: Conseguir meu primeiro emprego na área de Inteligência Artificial.
+Resposta: 6 horas
 
-Pergunta 5: Você prefere aprender de forma mais prática (projetos, desafios) ou teórica (leituras, cursos estruturados)?Resposta: Prefiro aprender de forma prática, aplicando o conhecimento em projetos.
+Pergunta 3: Você já tem alguma experiência prévia em tecnologia ou está começando do zero?
 
-Pergunta 6: Em qual tipo de empresa você gostaria de trabalhar (startup, multinacional, consultoria, setor público)?Resposta: Gostaria de trabalhar em uma multinacional de tecnologia.
+Resposta: Estou começando quase do zero. Já tive alguns contatos básicos com ferramentas digitais e estou fazendo este curso da DIO para aprender de verdade, mas ainda não tenho experiência profissional na área de tecnologia.
 
-Pergunta 7: Você tem interesse em desenvolver habilidades complementares (ex.: inglês, comunicação, trabalho em equipe)?Resposta: Sim, principalmente inglês e comunicação.
+Pergunta 4: Qual é o seu objetivo de carreira em médio prazo (ex.: conseguir o primeiro emprego, freelances, projetos pessoais)?
+
+Resposta: Conseguir meu primeiro emprego na área de Inteligência Artificial.
+
+Pergunta 5: Você prefere aprender de forma mais prática (projetos, desafios) ou teórica (leituras, cursos estruturados)?
+
+Resposta: Prefiro aprender de forma prática, aplicando o conhecimento em projetos.
+
+Pergunta 6: Em qual tipo de empresa você gostaria de trabalhar (startup, multinacional, consultoria, setor público)?
+
+Resposta: Gostaria de trabalhar em uma multinacional de tecnologia.
+
+Pergunta 7: Você tem interesse em desenvolver habilidades complementares (ex.: inglês, comunicação, trabalho em equipe)?
+
+Resposta: Sim, principalmente inglês e comunicação.
 
 🎯 Carreiras em Tecnologia que mais combinam
 
